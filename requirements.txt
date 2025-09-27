@@ -1,0 +1,1 @@
+-e git+https://github.com/TATP-233/DISCOVERSE.git#egg=DISCOVERSE
