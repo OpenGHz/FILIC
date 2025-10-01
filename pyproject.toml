@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools<70.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "filic"
+version = "0.0.0"
+description = "FILIC"
+authors = [{ name = "Anonymous", email = "anonymous@example.com" }]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = ["numpy"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["filic*"]
