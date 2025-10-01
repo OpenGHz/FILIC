@@ -2,7 +2,6 @@
 
 <div align="center">
 
-*The relevant code will be made public before October 10, 2025*
 <!-- [![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/) -->
 <!-- [![Website](https://img.shields.io/badge/Website-FILIC-blue.svg)](https://filic.github.io/) -->
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
