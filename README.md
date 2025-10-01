@@ -17,7 +17,6 @@ Clone this repository and install dependencies
 ```bash
 git submodule update --init --recursive
 pip install -e .
-pip install -r requirements.txt
 bash install.sh
 ```
 
